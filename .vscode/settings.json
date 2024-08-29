@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "cstdint": "c",
+        "*.tcc": "c",
+        "random": "c",
+        "rope": "c",
+        "ranges": "c",
+        "functional": "c",
+        "regex": "c",
+        "type_traits": "c",
+        "*.def": "c"
+    }
+}
